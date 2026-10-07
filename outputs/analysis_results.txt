@@ -1,0 +1,16 @@
+Rows: 97920
+Peak hour: 8
+High utilization share: 48.64%
+
+Top routes:
+  route     city  mode  passengers
+TOK-07    Tokyo metro      563135
+TOK-08    Tokyo  rail      525326
+NEW-07 New York metro      480041
+TOK-06    Tokyo   bus      449554
+NEW-08 New York  rail      446441
+PAR-07    Paris metro      435250
+LON-07   London metro      414763
+TOK-05    Tokyo   lrt      411731
+PAR-08    Paris  rail      408664
+LON-08   London  rail      388815

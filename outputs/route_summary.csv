@@ -1,0 +1,49 @@
+route,city,mode,passengers
+TOK-07,Tokyo,metro,563135
+TOK-08,Tokyo,rail,525326
+NEW-07,New York,metro,480041
+TOK-06,Tokyo,bus,449554
+NEW-08,New York,rail,446441
+PAR-07,Paris,metro,435250
+LON-07,London,metro,414763
+TOK-05,Tokyo,lrt,411731
+PAR-08,Paris,rail,408664
+LON-08,London,rail,388815
+NEW-06,New York,bus,384860
+SIN-07,Singapore,metro,383760
+TOK-04,Tokyo,tram,374123
+SIN-08,Singapore,rail,359269
+PAR-06,Paris,bus,351370
+NEW-05,New York,lrt,349605
+TOK-02,Tokyo,metro,343201
+BER-07,Berlin,metro,341025
+TOK-03,Tokyo,rail,335163
+LON-06,London,bus,331525
+PAR-05,Paris,lrt,320449
+BER-08,Berlin,rail,319299
+NEW-04,New York,tram,317330
+SIN-06,Singapore,bus,307680
+LON-05,London,lrt,305253
+NEW-02,New York,metro,292099
+PAR-04,Paris,tram,290594
+NEW-03,New York,rail,285924
+SIN-05,Singapore,lrt,280081
+LON-04,London,tram,278133
+BER-06,Berlin,bus,274163
+PAR-02,Paris,metro,266315
+PAR-03,Paris,rail,260972
+TOK-01,Tokyo,bus,260434
+SIN-04,Singapore,tram,254665
+LON-02,London,metro,254477
+BER-05,Berlin,lrt,250764
+LON-03,London,rail,249199
+SIN-02,Singapore,metro,234231
+SIN-03,Singapore,rail,229164
+BER-04,Berlin,tram,226865
+NEW-01,New York,bus,221310
+BER-02,Berlin,metro,207116
+BER-03,Berlin,rail,205033
+PAR-01,Paris,bus,201533
+LON-01,London,bus,192286
+SIN-01,Singapore,bus,177229
+BER-01,Berlin,bus,158271

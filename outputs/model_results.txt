@@ -1,0 +1,3 @@
+MAE: 15.46 passengers
+R2: 0.8799
+Model: /mnt/data/public_transport_usage_analyzer/outputs/demand_model.joblib
